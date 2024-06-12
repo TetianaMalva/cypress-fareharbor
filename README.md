@@ -29,3 +29,5 @@ npm install cypress --save-dev
 Follow the official documentation for more details: https://docs.cypress.io/guides/getting-started/opening-the-app 
 
 Example Test Result:
+
+![alt text] (https://raw.githubusercontent.com/TetianaMalva/cypress-fareharbor/master/wiki/test_result_cypress.png) 
