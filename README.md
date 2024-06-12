@@ -30,4 +30,6 @@ Follow the official documentation for more details: https://docs.cypress.io/guid
 
 Example Test Result:
 
-![alt text] (https://raw.githubusercontent.com/TetianaMalva/cypress-fareharbor/master/wiki/test_result_cypress.png) 
+Total time in Cypress 11 sec
+
+! [alt text] (https://raw.githubusercontent.com/TetianaMalva/cypress-fareharbor/master/wiki/test_result_cypress.png) 
