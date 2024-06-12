@@ -32,4 +32,4 @@ Example Test Result:
 
 Total time in Cypress 11 sec
 
-! [alt text] (https://raw.githubusercontent.com/TetianaMalva/cypress-fareharbor/master/wiki/test_result_cypress.png) 
+![alt text](https://raw.githubusercontent.com/TetianaMalva/cypress-fareharbor/master/wiki/test_result_cypress.png) 
